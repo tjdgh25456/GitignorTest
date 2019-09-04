@@ -7,10 +7,10 @@
 
 로고: ![](/https://github.com/tjdgh25456/GitignorTest/blob/master/test/%EC%9D%80%ED%95%98%EC%88%98.jpeg?raw=true "은하수")
 
-*목록  
-+목록2  
--목록3  
--몯록4  
+* 목록  
++ 목록2  
+- 목록3  
+- 몯록4  
 
 ---
 
